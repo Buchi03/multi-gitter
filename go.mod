@@ -6,6 +6,7 @@ require (
 	code.gitea.io/sdk/gitea v0.15.1
 	github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20220418082332-711d7d5e805f
+	github.com/ktrysmt/go-bitbucket v0.9.54
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/google/go-github/v47 v47.1.0
 	github.com/mitchellh/mapstructure v1.5.0
